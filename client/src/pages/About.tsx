@@ -81,19 +81,22 @@ export default function About() {
             {/* Image Fondateur */}
             <div className="animate-fade-in-up">
               <img
-                src="https://private-us-east-1.manuscdn.com/sessionFile/LHSVA3CYpW8Se5s4VMFFca/sandbox/aFqQefqbSM37B0bXyWNdC5-img-4_1771599641000_na1fn_Zm91bmRlci1wb3J0cmFpdA.png?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvTEhTVkEzQ1lwVzhTZTVzNFZNRkZjYS9zYW5kYm94L2FGcVFlZnFiU00zN0IwYlh5V05kQzUtaW1nLTRfMTc3MTU5OTY0MTAwMF9uYTFmbl9abTkxYm1SbGNpMXdiM0owY21GcGRBLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSx3XzE5MjAsaF8xOTIwL2Zvcm1hdCx3ZWJwL3F1YWxpdHkscV84MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=AJrRIeyrCExhyqqY77IgFjB548i~fytw-798mqT0e6DTimNAf18t035U782T4~7i5zrX0hw-CzTCvwYjowlBXxh2Wxy2mwk6VSI32KPkTIcWd10mvf8a4RRY~nQlv0w~hEb7nMlx7JxN96uYX6bUxFFC4EyA~soTgkImUoynVQkLo4AWrx2Jlsb3Dxi~eDs7wqDQD0oWC7kn~UUWzc0LRJsTYgBHo40VhCw18t-epL3MlDOQ9H7iHlnZUoZfubKkItOcWMVXHmkbjXSgTPWrINfioUSMURPgoKHEDZsgZ~RR42XKDIFzGNLveEOEger~mPFw94Ej-XjwhCn7hxtiGg__"
-                alt="Fondateur - Rising Digital IA"
+                src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663370713531/mFRLFuXdUZHZgOdt.jpg"
+                alt="Messan Salem ADIGUIDI - Fondateur Rising Digital IA"
                 className="w-full rounded-2xl shadow-2xl"
               />
             </div>
 
             {/* Contenu texte */}
             <div className="animate-fade-in-up">
-              <h2 className="text-4xl md:text-5xl font-bold text-blue-900 mb-6">
-                Le Fondateur
+              <h2 className="text-4xl md:text-5xl font-bold text-blue-900 mb-2">
+                Messan Salem ADIGUIDI
               </h2>
+              <p className="text-lg text-yellow-600 font-bold mb-6">
+                Fondateur & Directeur Général
+              </p>
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                Professionnel togolais passionné par le développement humain et la transformation digitale, notre fondateur apporte une expérience unique combinant expertise en santé publique, éducation et innovation technologique.
+                Professionnel africain passionné par le développement humain et la transformation digitale, Messan Salem apporte une expérience unique combinant expertise en santé publique, éducation et innovation technologique. Visionnaire engagé pour la digitalisation intelligente de l'Afrique.
               </p>
 
               <div className="space-y-4 mb-8">

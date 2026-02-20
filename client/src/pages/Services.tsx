@@ -235,7 +235,7 @@ export default function Services() {
               {
                 name: 'Starter',
                 price: 'À partir de',
-                amount: '50 000',
+                amount: '500',
                 currency: 'FCFA',
                 description: 'Pour les petits projets et services ponctuels',
                 features: [
@@ -248,7 +248,7 @@ export default function Services() {
               {
                 name: 'Professional',
                 price: 'À partir de',
-                amount: '500 000',
+                amount: '50 000',
                 currency: 'FCFA',
                 description: 'Pour les PME et entrepreneurs',
                 features: [

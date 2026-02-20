@@ -12,7 +12,7 @@ export default function WhatsAppButton() {
       href="https://wa.me/22893392515"
       target="_blank"
       rel="noopener noreferrer"
-      className="fixed bottom-8 right-8 z-40 flex items-center justify-center w-16 h-16 bg-yellow-500 text-blue-900 rounded-full shadow-2xl hover:bg-yellow-400 transition-all duration-300 hover:scale-110 animate-pulse-gold"
+      className="fixed bottom-8 right-8 z-40 flex items-center justify-center w-16 h-16 bg-green-500 text-white rounded-full shadow-2xl hover:bg-green-600 transition-all duration-300 hover:scale-110 animate-pulse"
       aria-label="Contacter sur WhatsApp"
     >
       <MessageCircle className="w-8 h-8" />

@@ -47,8 +47,8 @@ export default function Contact() {
     {
       icon: Mail,
       title: 'Email',
-      value: 'contact@risingdigitalai.com',
-      link: 'mailto:contact@risingdigitalai.com',
+      value: 'yesborntoshine@gmail.com',
+      link: 'mailto:yesborntoshine@gmail.com',
     },
     {
       icon: MapPin,

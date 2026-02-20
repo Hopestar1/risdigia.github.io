@@ -106,10 +106,10 @@ export default function Footer() {
               <li className="flex items-start gap-2">
                 <Mail className="w-5 h-5 text-yellow-400 flex-shrink-0 mt-0.5" />
                 <a
-                  href="mailto:contact@risingdigitalai.com"
+                  href="mailto:yesborntoshine@gmail.com"
                   className="text-gray-300 hover:text-yellow-400 transition-colors"
                 >
-                  contact@risingdigitalai.com
+                  yesborntoshine@gmail.com
                 </a>
               </li>
             </ul>
