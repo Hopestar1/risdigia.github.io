@@ -101,9 +101,9 @@ export default function About() {
 
               <div className="space-y-4 mb-8">
                 <div>
-                  <h3 className="text-xl font-bold text-blue-900 mb-2">Agent de Santé (2013-2017)</h3>
+                  <h3 className="text-xl font-bold text-blue-900 mb-2">Health Project Worker (2013 - Aujourd'hui)</h3>
                   <p className="text-gray-700">
-                    Engagement auprès des communautés pour améliorer l'accès aux services de santé et l'éducation sanitaire.
+                    Engagement continu auprès des communautés pour améliorer l'accès aux services de santé, l'éducation sanitaire et le bien-être des populations.
                   </p>
                 </div>
                 <div>
