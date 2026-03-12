@@ -81,7 +81,7 @@ export default function About() {
             {/* Image Fondateur */}
             <div className="animate-fade-in-up">
               <img
-                src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663370713531/mFRLFuXdUZHZgOdt.jpg"
+                src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663370713531/KXRmuhmTkBAnKIRU.jpg"
                 alt="Messan Salem ADIGUIDI - Fondateur Rising Digital IA"
                 className="w-full rounded-2xl shadow-2xl"
               />
